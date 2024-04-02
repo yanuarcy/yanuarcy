@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="left">
  <a href="https://www.linkedin.com/in/yanuar-cahyo-674651297?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW1YNg73XReaDZJhFzx4g9A%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanuarcy-674651297/" height="30" width="40" /></a>
  <a href="https://www.instagram.com/yanuarcy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanuarcy" height="30" width="40" /></a>
-  <a href="mailto:yanuarcahyo567@gmail.co" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="yanuarcy" height="40" width="50" /></a>
+  <a href="mailto:yanuarcahyo567@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="yanuarcy" height="40" width="50" /></a>
 </p>
 
 
